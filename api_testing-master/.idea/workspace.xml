@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80627acc-a915-452d-a5bb-03059dbf3b2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ocNplLWUUpBW5H3r32tP3DxUL3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api_testing" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SHIBL\Desktop\iLAB\api_testing-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.DogBreed.verifyRetrieverBreed">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogBreed.listAllDogBreeds" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.DogBreed" />
+      <option name="METHOD_NAME" value="listAllDogBreeds" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogBreed.subBreed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.DogBreed" />
+      <option name="METHOD_NAME" value="subBreed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogBreed.verifyRetrieverBreed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api_testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.DogBreed" />
+      <option name="METHOD_NAME" value="verifyRetrieverBreed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DogBreed.verifyRetrieverBreed" />
+        <item itemvalue="TestNG.DogBreed.subBreed" />
+        <item itemvalue="TestNG.DogBreed.listAllDogBreeds" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80627acc-a915-452d-a5bb-03059dbf3b2b" name="Default Changelist" comment="" />
+      <created>1613582106032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613582106032</updated>
+      <workItem from="1613582107170" duration="1969000" />
+      <workItem from="1613719339673" duration="3100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="124" y="76" width="1046" height="738" key="FileChooserDialogImpl" timestamp="1613747139678">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="124" y="76" width="1046" height="738" key="FileChooserDialogImpl/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1613747139678" />
+    <state width="1312" height="707" key="GridCell.Tab.0.bottom" timestamp="1613747141881">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="707" key="GridCell.Tab.0.bottom/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1613747141881" />
+    <state width="1312" height="707" key="GridCell.Tab.0.center" timestamp="1613747141881">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="707" key="GridCell.Tab.0.center/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1613747141881" />
+    <state width="1312" height="707" key="GridCell.Tab.0.left" timestamp="1613747141881">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="707" key="GridCell.Tab.0.left/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1613747141881" />
+    <state width="1312" height="707" key="GridCell.Tab.0.right" timestamp="1613747141881">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1312" height="707" key="GridCell.Tab.0.right/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1613747141881" />
+    <state x="166" y="11" key="SettingsEditor" timestamp="1613721107667">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="166" y="11" key="SettingsEditor/0.0.1368.872/2736.426.1920.1040@0.0.1368.872" timestamp="1613721107667" />
+  </component>
+</project>
